@@ -47,10 +47,19 @@ with open('data.csv', 'r') as csvfile:
     # Initial start date
     start_date = parse_date('15/01/2024 18:00')
     start_hour = [18, 0]
-    end_hour = '21:00'
+    end_hour = '21:30'
+
+    # flextime research 
+    total_flex_time_before = []
+    total_flex_time_after = []
+    total_workdays = 0
 
     # Iterate through each row in the CSV file
     for row in csvreader:
+        # flextime research 
+        if (row['title'] == 'Flex Time'):
+            total_flex_time_before.append(float(row['duration']))
+
         if is_valid_row(row):
             title = row['week_title']+" - "+row['title'] 
             duration = float(row['duration'])
@@ -70,20 +79,25 @@ with open('data.csv', 'r') as csvfile:
             else:
                 # If there is time left at the end of the day, add flex time
                 if start_date.time() < datetime.strptime(end_hour, '%H:%M').time():
-                    cal.events.add(
-                        Event(name="Flex time", begin=start_date, 
-                            end=start_date.combine(start_date.date(), datetime.strptime(end_hour, '%H:%M').time())))
+                        flex_event = Event(name="Flex time", begin=start_date, 
+                            end=start_date.combine(start_date.date(), datetime.strptime(end_hour, '%H:%M').time()))
+                        cal.events.add(flex_event)
+
+                        # flextime research 
+                        total_flex_time_after.append((flex_event.end - flex_event.begin).total_seconds() / 60)
+                        if ((flex_event.end - flex_event.begin).total_seconds() / 60 > 90):
+                            print("BATARD "+str(flex_event))
 
                 # Skip to the next working day
                 start_date = add_weekday(start_date, 1)
-
+                total_workdays += 1
                 # Set the start and end hour depending on the day
                 if is_saturday(start_date):
                     start_hour = [10, 30]
-                    end_hour = '13:30'
+                    end_hour = '14:00'
                 else:
                     start_hour = [18, 0]
-                    end_hour = '21:00'
+                    end_hour = '21:30'
 
                 # Set the hour for current day
                 start_date = start_date.replace(hour=start_hour[0], minute=start_hour[1])
@@ -97,6 +111,8 @@ with open('data.csv', 'r') as csvfile:
 
             # Update start date for the next iteration
             start_date = event.end
+    print(f'Total flex time original AWS (min): {sum(total_flex_time_before)}, Average: {sum(total_flex_time_before) / len(total_flex_time_before)}, Maximum: {max(total_flex_time_before)}, Minimum: {min(total_flex_time_before)} (over {12*5} working days)')
+    print(f'Total flex time new schedule (min): {sum(total_flex_time_after)}, Average: {sum(total_flex_time_after) / len(total_flex_time_after)}, Maximum: {max(total_flex_time_after)}, Minimum: {min(total_flex_time_after)} (over {total_workdays} working days)')
 
 # Write the iCalendar to a file
 with open('output.ics', 'w') as ics_file:
