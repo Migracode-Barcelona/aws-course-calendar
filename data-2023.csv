@@ -1,0 +1,788 @@
+title,duration,day_week_n,week,module,is_pro,is_ignored
+Opening,20,1,1,Introduction,,FALSE
+Welcome & Expectations,45,1,1,Introduction,,FALSE
+Break,15,1,1,Introduction,,TRUE
+Program Overview and Introductions,60,1,1,Introduction,,FALSE
+Curriculum Overview,30,1,1,Introduction,,FALSE
+Lunch,45,1,1,Introduction,,TRUE
+Vendor Introduction,45,1,1,Introduction,,FALSE
+Break,15,1,1,Introduction,,TRUE
+Self-Assessment: Who Am I?,45,1,1,Introduction,Professional Skills,FALSE
+Activity: Introduction to Amazon Leadership Principles,30,1,1,Introduction,Professional Skills,FALSE
+Introduce Exit Ticket Activity,15,1,1,Introduction,,FALSE
+Exit Ticket,20,1,1,Introduction,,TRUE
+Flex Time,65,1,1,Introduction,,TRUE
+Recap,20,2,1,Introduction,,TRUE
+Activity: Think Big,120,2,1,Introduction,Professional Skills,FALSE
+Break,15,2,1,Introduction,,TRUE
+Introduction to Computing and Knowledge Check,50,2,1,Cloud Foundations,,FALSE
+Lunch,45,2,1,Cloud Foundations,,TRUE
+Basic Computing Concepts and Knowledge Check,55,2,1,Cloud Foundations,,FALSE
+Break,15,2,1,Cloud Foundations,,TRUE
+Development Team Roles and Knowledge Check,40,2,1,Cloud Foundations,,FALSE
+What is Cloud Computing and Knowledge Check,45,2,1,Cloud Foundations,,FALSE
+Exit Ticket,20,2,1,Cloud Foundations,,TRUE
+Flex Time,25,2,1,Cloud Foundations,,TRUE
+Recap,20,3,1,Cloud Foundations,,TRUE
+Activity: Cloud Roles,90,,1,Cloud Foundations,,FALSE
+Break,15,,1,Cloud Foundations,,TRUE
+Activity: Setting Goals,105,,1,Cloud Foundations,,FALSE
+Lunch,45,,1,Cloud Foundations,,TRUE
+Activity: Career Goals,45,,1,Cloud Foundations,,FALSE
+Break,15,,1,Cloud Foundations,,TRUE
+Advantages of Cloud Computing and Knowledge Check,95,,1,Cloud Foundations,,FALSE
+Exit Ticket,20,,1,Cloud Foundations,,TRUE
+Recap,20,,1,Cloud Foundations,,TRUE
+Communication and STAR methodology,135,,1,Cloud Foundations,,FALSE
+Break,15,,1,Cloud Foundations,,TRUE
+What is Amazon Web Services (AWS) and Knowledge Check,55,,1,Cloud Foundations,,FALSE
+Lunch,45,,1,Cloud Foundations,,TRUE
+Introduction to AWS Training and Certification,45,,1,Cloud Foundations,,FALSE
+Break,15,,1,Cloud Foundations,,TRUE
+Fundamentals of AWS Pricing and Knowledge Check,45,,1,Cloud Foundations,,FALSE
+AWS Infrastructure Overview and Knowledge Check,45,,1,Cloud Foundations,,FALSE
+Exit Ticket,20,,1,Cloud Foundations,,TRUE
+Flex Time,10,4,1,Cloud Foundations,,TRUE
+Recap,20,5,1,Cloud Foundations,,TRUE
+AWS Services and Service Category Overview and Knowledge Check,50,5,1,Cloud Foundations,,FALSE
+AWS Shared Responsibility Model and Knowledge Check,35,5,1,Cloud Foundations,,FALSE
+Break,15,5,1,Cloud Foundations,,TRUE
+Amazon Simple Storage Service (S3),20,5,1,Cloud Foundations,,FALSE
+Amazon S3 Demo and Knowledge Check,40,5,1,Cloud Foundations,,FALSE
+Lunch,45,5,1,Cloud Foundations,,TRUE
+Amazon Elastic Compute Cloud (EC2) and Demo,60,5,1,Cloud Foundations,,FALSE
+Lab: Introduction to Amazon EC2 and Knowledge Check,60,5,1,Cloud Foundations,,FALSE
+Break,15,5,1,Cloud Foundations,,TRUE
+Recap and Quiz: Cloud Foundations,45,5,1,Cloud Foundations,,FALSE
+Review Cloud Foundations,25,5,1,Cloud Foundations,,FALSE
+Exit Ticket,20,5,1,Cloud Foundations,,TRUE
+Recap,15,1,2,Linux,,TRUE
+Introduction to Linux,50,,2,Linux,,FALSE
+"Lab : Introduction to Linux and
+Knowledge Check",45,,2,Linux,,FALSE
+Break,15,,2,Linux,,TRUE
+Linux Command Line,75,,2,Linux,,FALSE
+Lunch,45,,2,Linux,,TRUE
+"Lab : Linux Command Line and
+Knowledge Check",45,,2,Linux,,FALSE
+Users and Groups,65,,2,Linux,,FALSE
+Break,15,,2,Linux,,TRUE
+"Lab : Users and Groups and
+Knowledge Check",60,,2,Linux,,FALSE
+Exit Ticket,20,,2,Linux,,TRUE
+Recap,20,,2,Linux,,TRUE
+Editing Files,65,,2,Linux,,FALSE
+Break,15,,2,Linux,,TRUE
+Lab : Editing Files and Knowledge Check,75,,2,Linux,,FALSE
+Working with the File System,65,,2,Linux,,FALSE
+Lunch,45,,2,Linux,,TRUE
+"Lab : Working with the File System and
+Knowledge Check",45,,2,Linux,,FALSE
+Break,15,,2,Linux,,TRUE
+Working with Files,65,,2,Linux,,FALSE
+Exit Ticket,20,,2,Linux,,TRUE
+Flex Time,20,,2,Linux,,TRUE
+Recap,20,,2,Linux,,TRUE
+"Lab : Working with Files and
+Knowledge Check",45,,2,Linux,,FALSE
+Break,15,,2,Linux,,TRUE
+Managing File Permissions,60,,2,Linux,,FALSE
+"Lab : Managing File Permissions and
+Knowledge Check",50,,2,Linux,,FALSE
+Lunch,45,,2,Linux,,TRUE
+Working with Commands,90,,2,Linux,,FALSE
+Break,15,,2,Linux,,TRUE
+"Lab : Working with Commands and
+Knowledge Check",45,,2,Linux,,FALSE
+Flex Time,45,,2,Linux,,TRUE
+Exit Ticket,20,,2,Linux,,TRUE
+Recap,20,,2,Linux,,TRUE
+Managing Processes,65,,2,Linux,,FALSE
+Break,15,,2,Linux,,TRUE
+"Lab : Managing Processes and
+Knowledge Check",60,,2,Linux,,FALSE
+Managing Services,65,,2,Linux,,FALSE
+Lunch,45,,2,Linux,,TRUE
+"Lab : Managing Services and
+Knowledge Check",45,,2,Linux,,FALSE
+Break,15,,2,Linux,,TRUE
+The Bash Shell,75,,2,Linux,,FALSE
+Exit Ticket,20,,2,Linux,,TRUE
+Flex Time,25,,2,Linux,,TRUE
+Recap,20,4,2,Linux,,TRUE
+"Lab : Bash Shell and Knowledge
+Check",45,5,2,Linux,,FALSE
+Break,15,5,2,Linux,,TRUE
+Bash Shell Scripting,110,5,2,Linux,,FALSE
+Lunch,45,5,2,Linux,,TRUE
+"Lab : Bash Shell Scripting and
+Knowledge check",40,5,2,Linux,,FALSE
+Break,15,5,2,Linux,,TRUE
+Activity : Customer Obsession,50,5,2,Linux,,FALSE
+Exit Ticket,20,5,2,Linux,,TRUE
+Flex Time,90,5,2,Linux,,TRUE
+Recap,20,1,3,Linux,,TRUE
+Software Management,40,1,3,Linux,,FALSE
+Break,15,1,3,Linux,,TRUE
+"Lab : Software Management and
+Knowledge Check",40,1,3,Linux,,FALSE
+Managing Log Files,70,1,3,Linux,,FALSE
+Lunch,45,1,3,Linux,,TRUE
+"Lab : Managing Log Files and
+Knowledge Check",25,1,3,Linux,,FALSE
+Break,15,1,3,Linux,,TRUE
+"Challenge Lab : Advanced Bash Shell
+Scripting on EC2",55,1,3,Linux,,FALSE
+Review Linux,30,1,3,Linux,,FALSE
+Exit Ticket,20,1,3,Linux,,TRUE
+Flex Time,75,1,3,Linux,,TRUE
+Recap,20,2,3,Networking,,TRUE
+Professional Outlook,135,,3,Networking,Professional Skills,FALSE
+Break,15,,3,Networking,,TRUE
+"Introduction to Networking and
+Knowledge Check",50,,3,Networking,,FALSE
+Lunch,45,,3,Networking,,TRUE
+"Networking Concepts and Knowledge
+Check",65,,3,Networking,,FALSE
+Break,15,,3,Networking,,TRUE
+Internet Protocol,45,,3,Networking,,FALSE
+"Internet Protocol ( IP ) Demo and
+Knowledge Check",35,,3,Networking,,FALSE
+Exit Ticket,20,,3,Networking,,TRUE
+Flex Time,5,,3,Networking,,TRUE
+Recap,20,,3,Networking,,TRUE
+Networking in the AWS Cloud,55,,3,Networking,,FALSE
+Break,15,,3,Networking,,TRUE
+Lab : Public and Private IPs,60,,3,Networking,,FALSE
+Lab : Dynamic and Static IPs,60,,3,Networking,,FALSE
+Lunch,45,,3,Networking,,TRUE
+AWS VPC Demonstration,45,,3,Networking,,FALSE
+Amazon VPC Knowledge Check,15,,3,Networking,,FALSE
+Break,15,,3,Networking,,TRUE
+Lab : Create subnets in a VPC,60,,3,Networking,,FALSE
+Exit Ticket,20,,3,Networking,,TRUE
+Flex Time,40,,3,Networking,,TRUE
+Recap,20,,3,Networking,,TRUE
+Lab : Networking resources for a VPC,60,,3,Networking,,FALSE
+Break,15,,3,Networking,,TRUE
+Emotional Intelligence,90,,3,Networking,,FALSE
+Lunch,45,,3,Networking,,TRUE
+IP Subnetting and Knowledge Check,85,,3,Networking,,FALSE
+Break,15,,3,Networking,,TRUE
+Alumni presentation with Students,90,,3,Networking,,FALSE
+Exit Ticket,20,,3,Networking,,TRUE
+Flex Time,10,,3,Networking,,TRUE
+Recap,20,,3,Networking,,TRUE
+Activity : Learn and Be Curious,50,,3,Networking,,FALSE
+Break,15,,3,Networking,,TRUE
+Lab : Troubleshooting Commands,60,,3,Networking,,FALSE
+Lab : Troubleshooting Network Issue,60,,3,Networking,,FALSE
+Lunch,45,,3,Networking,,TRUE
+Additional Networking Protocols,75,,3,Networking,,FALSE
+Break,15,,3,Networking,,TRUE
+"Additional Networking Protocols
+Activities and Knowledge Check",35,,3,Networking,,FALSE
+Exit Ticket,20,,3,Networking,,TRUE
+Flex Time,55,,3,Networking,,TRUE
+Recap,10,1,4,Networking,,TRUE
+"Lab : Build your VPC and launch a
+web server",60,1,4,Networking,,FALSE
+Break,15,1,4,Networking,,TRUE
+"Additional Networking Technologies
+and Knowledge Check",40,1,4,Networking,,FALSE
+Review Networking,20,1,4,Networking,,FALSE
+Lunch,45,1,4,Networking,,TRUE
+Digital Presence,95,1,4,Security,Professional Skills,FALSE
+Interview settings ( lecture ),35,1,4,Security,Professional Skills,FALSE
+Break,15,1,4,Security,,TRUE
+Interview process ( lecture ),50,1,4,Security,Professional Skills,FALSE
+Interview Practice,45,1,4,Security,Professional Skills,FALSE
+Exit Ticket,20,1,4,Security,,TRUE
+Recap,20,,4,Security,,TRUE
+Introduction to Security,65,,4,Security,,FALSE
+Break,15,,4,Security,,TRUE
+"Introduction to Security Knowledge
+Check",15,,4,Security,,FALSE
+Security Life Cycle : Prevention,65,,4,Security,,FALSE
+"Security Life Cycle - Prevention
+Knowledge Check",15,,4,Security,,FALSE
+Lunch,45,,4,Security,,TRUE
+Prevention : Network Hardening,75,,4,Security,,FALSE
+Break,15,,4,Security,,TRUE
+"Lab : Networking Hardening and
+Knowledge Check",60,,4,Security,,FALSE
+Prevention : System Hardening,40,,4,Security,,FALSE
+Exit Ticket,20,,4,Security,,TRUE
+Recap,20,,4,Security,,TRUE
+"Lab : Systems Hardening and
+Knowledge Check",75,,4,Security,,FALSE
+Break,15,,4,Security,,TRUE
+Prevention : Data Security,35,,4,Security,,FALSE
+"Lab : Data Protection Using Encryption
+and Knowledge Check",60,,4,Security,,FALSE
+Lunch,45,,4,Security,,TRUE
+"Prevention : Public Key Infrastructure
+and Demo",35,,4,Security,,FALSE
+"Demo : Amazon Certificate Manager
+and Knowledge Check",25,,4,Security,,FALSE
+Prevention : Identity Management,65,,4,Security,,FALSE
+Break,15,,4,Security,,TRUE
+"Prevention : Identity Management
+Knowledge Check",15,,4,Security,,FALSE
+Exit Ticket,20,,4,Security,,TRUE
+Flex Time,25,,4,Security,,TRUE
+Recap,20,,4,Security,,TRUE
+"AWS Identity and Access
+Management ( IAM )",30,,4,Security,,FALSE
+Break,15,,4,Security,,TRUE
+"Lab : Introduction to IAM and
+Knowledge Check",60,,4,Security,,FALSE
+Detection,40,,4,Security,,FALSE
+Lunch,45,,4,Security,,TRUE
+"Lab : Malware Protection and
+Knowledge Check",60,,4,Security,,FALSE
+"AWS CloudTrail and Knowledge
+Check",35,,4,Security,,FALSE
+Break,15,,4,Security,,TRUE
+AWS Config and Knowledge Check,50,,4,Security,,FALSE
+Exit Ticket,20,,4,Security,,TRUE
+Flex Time,60,,4,Security,,TRUE
+Recap,20,,4,Security,,TRUE
+Response,45,,4,Security,,FALSE
+Break,15,,4,Security,,TRUE
+"Activity : Incident Response and
+Knowledge Check",45,,4,Security,,FALSE
+Analysis,45,,4,Security,,FALSE
+Lunch,45,,4,Security,,TRUE
+"Lab : Monitor an EC2 Instance and
+Knowledge Check",75,,4,Security,,FALSE
+Break,15,,4,Security,,TRUE
+Activity : Earn Trust,50,,4,Security,,FALSE
+"Presentation from future peers at
+company",40,,4,Security,,FALSE
+Exit Ticket,20,,4,Security,,TRUE
+Flex Time,35,5,4,Security,,TRUE
+Recap,20,1,5,Security,,TRUE
+"AWS Trusted Advisor and Knowledge
+Check",80,1,5,Security,,FALSE
+Break,15,1,5,Security,,TRUE
+"Security Best Practices and
+Knowledge Check",35,1,5,Security,,FALSE
+"AWS Compliance Program and
+Knowledge Check",50,1,5,Security,,FALSE
+Lunch,45,1,5,Security,,TRUE
+"AWS Security Resources and
+Knowledge Check",35,1,5,Security,,FALSE
+Review Security,30,1,5,Security,,FALSE
+Break,15,1,5,Security,,TRUE
+Interview Practice,45,1,5,Security,Professional Skills,FALSE
+Hiring Process,60,1,5,Security,Professional Skills,FALSE
+Exit Ticket,20,1,5,Security,,TRUE
+Recap,20,2,5,Python Programming,,TRUE
+"Introduction to Programming - What is
+Programming ?",25,,5,Python Programming,,FALSE
+AWS Cloud 9 Instructor Demonstration,30,,5,Python Programming,,FALSE
+Break,15,,5,Python Programming,,TRUE
+Lab : Hello World,60,,5,Python Programming,,FALSE
+"Introduction to Programming -
+Categorize a Value as a Data Type",20,,5,Python Programming,,FALSE
+Lunch,45,,5,Python Programming,,TRUE
+Lab : Numeric data types,80,,5,Python Programming,,FALSE
+Lab : String data type,60,,5,Python Programming,,FALSE
+Break,15,,5,Python Programming,,TRUE
+"Lab : List , tuple , dictionary",60,,5,Python Programming,,FALSE
+Exit Ticket,20,,5,Python Programming,,TRUE
+Recap,20,,5,Python Programming,,TRUE
+Lab : Categorize values,60,,5,Python Programming,,FALSE
+"Introduction to Programming -
+Combine Values into Composite Data
+Types",15,,5,Python Programming,,FALSE
+Lab : Composite data types,60,,5,Python Programming,,FALSE
+Break,15,,5,Python Programming,,TRUE
+"Introduction to Programming -
+Functions",25,,5,Python Programming,,FALSE
+"Introduction to Programming - Follow
+the Execution Path of a Program",15,,5,Python Programming,,FALSE
+Lunch,45,,5,Python Programming,,TRUE
+"Lab : Conditionals",60,,5,Python Programming,,FALSE
+"Lab : Loops",60,,5,Python Programming,,FALSE
+Break,15,,5,Python Programming,,TRUE
+Activity : Have a Backbone,40,,5,Python Programming,,FALSE
+Exit Ticket,20,,5,Python Programming,,TRUE
+Recap,20,,5,Python Programming,,TRUE
+"Introduction to Programming -
+Version Control",30,,5,Python Programming,,FALSE
+Break,15,,5,Python Programming,,TRUE
+"Lab : Create a git repository and
+Knowledge Check",75,,5,Python Programming,,FALSE
+Introduction to Python,30,,5,Python Programming,,FALSE
+Lunch,45,,5,Python Programming,,TRUE
+"Lab : Preparing to analyze insulin
+with Python and Knowledge Check",45,,5,Python Programming,,FALSE
+Break,15,,5,Python Programming,,TRUE
+Python Basics,145,,5,Python Programming,,FALSE
+Exit Ticket,20,,5,Python Programming,,TRUE
+Flex Time,10,,5,Python Programming,,TRUE
+Recap,20,,5,Python Programming,,TRUE
+Meet future peers at company,45,,5,Python Programming,,FALSE
+Break,15,,5,Python Programming,,TRUE
+"Lab : Working with the string
+sequence and numeric weight of
+insulin in python and Knowledge
+Check",60,,5,Python Programming,,FALSE
+Interview Practice,30,,5,Python Programming,,FALSE
+Lunch,45,,5,Python Programming,,TRUE
+Flow Control,145,,5,Python Programming,,FALSE
+Break,15,,5,Python Programming,,TRUE
+"Lab : Calculating the net charge of
+insulin using python lists and loops
+and Knowledge Check",55,,5,Python Programming,,FALSE
+Exit Ticket,20,,5,Python Programming,,TRUE
+Recap,20,,6,Python Programming,,TRUE
+Functions,80,,6,Python Programming,,FALSE
+Break,15,,6,Python Programming,,TRUE
+"Lab : Use functions to implement a
+Caesar Cipher and Knowledge Check",105,,6,Python Programming,,FALSE
+Lunch,45,,6,Python Programming,,TRUE
+Mods and Libraries,80,,6,Python Programming,,FALSE
+Break,15,,6,Python Programming,,TRUE
+"Lab : File handlers and modules for
+retrieving information about insulin
+and Knowledge Check",55,,6,Python Programming,,FALSE
+Exit Ticket,20,,6,Python Programming,,TRUE
+Flex Time,15,,6,Python Programming,,TRUE
+Recap,20,,6,Python Programming,,TRUE
+Python for System Administration,80,,6,Python Programming,,FALSE
+Break,15,,6,Python Programming,,TRUE
+"Lab : System Administration with
+Python and Knowledge Check",65,,6,Python Programming,,FALSE
+Lunch,45,,6,Python Programming,,TRUE
+Debugging and Testing,70,,6,Python Programming,,FALSE
+Lab : Using the Debugger,40,,6,Python Programming,,FALSE
+Break,15,,6,Python Programming,,TRUE
+"Lab : Debugging Hello World and Caesar
+Cipher",80,,6,Python Programming,,FALSE
+Exit Ticket,20,,6,Python Programming,,TRUE
+Recap,20,,6,Python Programming,,TRUE
+Knowledge Check ( Debugging ),15,,6,Python Programming,,FALSE
+DevOps and Continuous Integration,40,,6,Python Programming,,FALSE
+Break,15,,6,Python Programming,,TRUE
+Lab : Evaluate a DevOps tool,45,,6,Python Programming,,FALSE
+Lunch,45,,6,Python Programming,,TRUE
+Lab : Explore the value of automation,45,,6,Python Programming,,FALSE
+Break,15,,6,Python Programming,,TRUE
+"Lab : Compare and contrast
+automation and orchestration and
+Knowledge Check",60,,6,Python Programming,,FALSE
+"Configuration Management and
+Knowledge Check",60,,6,Python Programming,,FALSE
+Fact finding exercise : Python,70,,6,Python Programming,,FALSE
+Exit Ticket,20,3,6,Python Programming,,TRUE
+Recap,20,4,6,Python Programming,,TRUE
+Challenge lab : Python,60,4,6,Python Programming,,FALSE
+Break,15,4,6,Python Programming,,TRUE
+Review Python,30,4,6,Python Programming,,FALSE
+Exploring Cloud Job Postings,90,4,6,Databases,Professional Skills,FALSE
+Lunch,45,4,6,Databases,,TRUE
+"Explore Cloud Job Postings
+discussion",45,4,6,Databases,Professional Skills,FALSE
+Introduction to Databases,40,4,6,Databases,,FALSE
+Break,15,4,6,Databases,,TRUE
+"Activity : Introduction to Databases
+and Knowledge Check",55,4,6,Databases,,FALSE
+Exit Ticket,20,4,6,Databases,,TRUE
+Flex Time,15,4,6,Databases,,TRUE
+Recap,20,5,6,Databases,,TRUE
+"Data Interaction and Database
+Transaction and Knowledge Check",65,5,6,Databases,,FALSE
+"Creating Tables and Learning
+Different Data Types",90,5,6,Databases,,FALSE
+Break,15,5,6,Databases,,TRUE
+"Activity : Creating tables and data
+types",30,5,6,Databases,,FALSE
+Lunch,45,5,6,Databases,,TRUE
+"Lab : Database table operations and
+Knowledge Check",45,5,6,Databases,,FALSE
+Break,15,5,6,Databases,,TRUE
+Interview Practice,45,5,6,Databases,,FALSE
+Inserting Data into a Database,55,5,6,Databases,,FALSE
+Exit Ticket,20,5,6,Databases,,TRUE
+Flex Time,5,5,6,Databases,,TRUE
+Recap,20,1,7,Databases,,TRUE
+Lab: Inserting Data and Knowledge Check,40,,7,Databases,,FALSE
+Selecting Data,55,,7,Databases,,FALSE
+Break,15,,7,Databases,,TRUE
+Lab: Selecting data from a database and Knowledge Check,60,,7,Databases,,FALSE
+Resume Creation (Lecture),35,,7,Databases,,FALSE
+Lunch,45,,7,Databases,,TRUE
+Work on Resume,45,,7,Databases,,FALSE
+Break,15,,7,Databases,,TRUE
+Performing a Conditional Search,90,,7,Databases,,FALSE
+Exit Ticket,20,,7,Databases,,TRUE
+Flex Time,10,,7,Databases,,TRUE
+Recap,20,,7,Databases,,TRUE
+Activities and Lab: Performing a Conditional Search and Knowledge Check,100,,7,Databases,,FALSE
+Break,15,,7,Databases,,TRUE
+Working with Functions,55,,7,Databases,,FALSE
+Lunch,45,,7,Databases,,TRUE
+Lab: Working with functions and Knowledge Check,60,,7,Databases,,FALSE
+Organizing Data,55,,7,Databases,,FALSE
+Break,15,,7,Databases,,TRUE
+Lab: Organizing Data and Knowledge Check,60,,7,Databases,,FALSE
+Exit Ticket,20,,7,Databases,,TRUE
+Flex Time,5,,7,Databases,,TRUE
+Recap,20,,7,Databases,,TRUE
+Retrieving Data,45,,7,Databases,,FALSE
+Lab: Build your DB server and Knowledge Check,60,,7,Databases,,FALSE
+Break,15,,7,Databases,,TRUE
+Amazon RDS and Demonstration,60,,7,Databases,,FALSE
+Lunch,45,,7,Databases,,TRUE
+Lab: Introduction to Amazon Aurora and Knowledge Check,55,,7,Databases,,FALSE
+Amazon DynamoDB and Demonstration,60,,7,Databases,,FALSE
+Break,15,,7,Databases,,TRUE
+Lab: Introduction to Amazon DynamoDB and Knowledge Check,50,,7,Databases,,FALSE
+Exit Ticket,20,,7,Databases,,TRUE
+Flex Time,5,,7,Databases,,TRUE
+Recap,20,4,7,Databases,,TRUE
+Fact finding exercise: Databases and Review,60,4,7,Databases,,FALSE
+Challenge lab: Build and Access an RDS Server,45,4,7,Databases,,FALSE
+Break,15,4,7,Databases,,TRUE
+Review Databases,30,4,7,Databases,,FALSE
+Lunch,45,4,7,Professional Skills,,TRUE
+Work on Resume,45,4,7,Professional Skills,Professional Skills,FALSE
+Break,15,4,7,Professional Skills,,TRUE
+Networking (soft skills),95,4,7,Professional Skills,Professional Skills,FALSE
+Exit Ticket,20,4,7,Professional Skills,,TRUE
+Flex Time,60,4,7,Professional Skills,,TRUE
+Recap,20,5,7,Professional Skills,,TRUE
+Networking (soft skills) Continued,100,5,7,Professional Skills,Professional Skills,FALSE
+Break,15,5,7,Professional Skills,,TRUE
+Interview Practice,45,5,7,Professional Skills,Professional Skills,FALSE
+Lunch,45,5,7,Professional Skills,,TRUE
+Networking Event,160,5,7,Professional Skills,Professional Skills,FALSE
+Exit Ticket,20,5,7,Professional Skills,,TRUE
+Flex Time,25,5,7,Professional Skills,,TRUE
+Recap,20,1,8,Professional Skills,,TRUE
+Technical thought process,160,1,8,Professional Skills,Professional Skills,FALSE
+Break,15,1,8,Professional Skills,,TRUE
+AWS Architecture Overview,10,1,8,AWS Architecture,,FALSE
+AWS Cloud Adoption Framework,25,1,8,AWS Architecture,,FALSE
+Lunch,45,1,8,AWS Architecture,,TRUE
+AWS Well-Architected Framework,30,1,8,AWS Architecture,,FALSE
+Well-Architected Principles,20,1,8,AWS Architecture,,FALSE
+Break,15,1,8,AWS Architecture,,TRUE
+Reliability and High Availability,20,1,8,AWS Architecture,,FALSE
+Transitioning a Data Center to the Cloud,30,1,8,AWS Architecture,,FALSE
+Exit Ticket,20,1,8,AWS Architecture,,TRUE
+Flex Time,15,1,8,AWS Architecture,,TRUE
+Recap,20,2,8,AWS Architecture,,TRUE
+Fact Finding exercise : Well-Architected Framework,60,2,8,AWS Architecture,,FALSE
+Break,15,2,8,AWS Architecture,,TRUE
+Well-Architected Knowledge Check and Review,30,2,8,AWS Architecture,,FALSE
+Work on Resume,45,2,8,Professional Skills,Professional Skills,FALSE
+Lunch,45,2,8,Professional Skills,,TRUE
+Teamwork and Collaboration,45,2,8,Professional Skills,Professional Skills,FALSE
+Break,15,2,8,Professional Skills,,TRUE
+Teamwork and Collaboration (Continued),140,2,8,Professional Skills,Professional Skills,FALSE
+Exit Ticket,20,2,8,Professional Skills,,TRUE
+Flex Time,15,2,8,Professional Skills,,TRUE
+Recap,20,3,8,Professional Skills,,TRUE
+Teamwork and Collaboration (Continued),60,3,8,Professional Skills,Professional Skills,FALSE
+Break,15,3,8,Professional Skills,,TRUE
+Systems Operations Overview,10,3,8,Systems Operations,,FALSE
+Systems Operations on AWS,45,3,8,Systems Operations,,FALSE
+Activity : Troubleshooting Knowledge Base Introduction,30,3,8,Systems Operations,,FALSE
+Lunch,45,3,8,Systems Operations,,TRUE
+AWS Identity and Access Management (IAM) Review,55,3,8,Systems Operations,,FALSE
+Break,15,3,8,Systems Operations,,TRUE
+AWS Command Line Interface (AWS CLI),60,3,8,Systems Operations,,FALSE
+Café Lab : Install and use the AWS CLI,75,3,8,Systems Operations,,FALSE
+Exit Ticket,20,3,8,Systems Operations,,TRUE
+Recap,20,4,8,Systems Operations,,TRUE
+Systems Operations Knowledge Check and Review,30,4,8,Systems Operations,,FALSE
+Tooling and Automation Overview,10,4,8,Tooling and Automation,,FALSE
+AWS Systems Manager,45,4,8,Tooling and Automation,,FALSE
+Break,15,4,8,Tooling and Automation,,TRUE
+Lab : Using AWS Systems Manager,30,4,8,Tooling and Automation,,FALSE
+Administration and Development Tools,20,4,8,Tooling and Automation,,FALSE
+Tooling and Automation Knowledge Check and Review,30,4,8,Tooling and Automation,,FALSE
+Lunch,45,4,8,Tooling and Automation,,TRUE
+Servers Overview,10,4,8,Servers,,FALSE
+Hosting a Static Website on Amazon S3,15,4,8,Servers,,FALSE
+Café Lab : Creating a Website on Amazon S3,75,4,8,Servers,,FALSE
+Break,15,4,8,Servers,,TRUE
+Exit Ticket,20,4,8,Tooling and Automation,,TRUE
+Flex time,70,4,8,Servers,,TRUE
+Recap,20,5,8,Servers,,TRUE
+Computing on AWS and Demonstration,90,5,8,Servers,,FALSE
+Break,15,5,8,Servers,,TRUE
+Managing Your AWS Instances,45,5,8,Servers,,FALSE
+Lunch,45,5,8,Servers,,TRUE
+Lab : Creating Amazon EC2 Instances,45,5,8,Servers,,FALSE
+Challenge lab : Linux EC2 Instance,55,5,8,Servers,,FALSE
+Break,15,5,8,Servers,,TRUE
+AWS Elastic Beanstalk,35,5,8,Servers,,FALSE
+Work on Resume,35,5,8,Servers,Professional Skills,FALSE
+Interview Practice,30,5,8,Servers,Professional Skills,FALSE
+Exit Ticket,20,5,8,Servers,,TRUE
+Recap,20,1,9,Servers,,TRUE
+"Café Lab : Troubleshooting the
+Creation of an EC2 Instance",75,1,9,Servers,,FALSE
+Break,15,1,9,Servers,,TRUE
+"Servers Knowledge Check and
+Review",30,1,9,Servers,,FALSE
+"Scaling and Name Resolution
+Overview",10,1,9,Scaling and Name Resolution,,FALSE
+Elastic Load Balancing,65,1,9,Scaling and Name Resolution,,FALSE
+Lunch,45,1,9,Scaling and Name Resolution,,TRUE
+ELB Load Balancers and Listeners,75,1,9,Scaling and Name Resolution,,FALSE
+Break,15,1,9,Scaling and Name Resolution,,TRUE
+Networking Event,80,1,9,Scaling and Name Resolution,Professional Skills,FALSE
+Exit Ticket,20,1,9,Scaling and Name Resolution,,TRUE
+Recap,20,2,9,Scaling and Name Resolution,,TRUE
+Amazon EC2 Auto Scaling,80,2,9,Scaling and Name Resolution,,FALSE
+Break,15,2,9,Scaling and Name Resolution,,TRUE
+"Lab : Scaling and Load Balancing Your
+Architecture",45,2,9,Scaling and Name Resolution,,FALSE
+Lab : Using Auto Scaling in AWS ( Linux ),45,2,9,Scaling and Name Resolution,,FALSE
+Lunch,45,2,9,Scaling and Name Resolution,,TRUE
+Auto Scaling Prediction Challenge,85,2,9,Scaling and Name Resolution,,FALSE
+Break,15,2,9,Scaling and Name Resolution,,TRUE
+Amazon Route 53,60,2,9,Scaling and Name Resolution,,FALSE
+Amazon CloudFront,15,2,9,Scaling and Name Resolution,,FALSE
+Exit Ticket,20,2,9,Scaling and Name Resolution,,TRUE
+Flex Time,5,2,9,Scaling and Name Resolution,,TRUE
+Recap,20,3,9,Scaling and Name Resolution,,TRUE
+"Café Lab : Amazon Route 53 Failover
+Routing",80,3,9,Scaling and Name Resolution,,FALSE
+Break,15,3,9,Scaling and Name Resolution,,TRUE
+"Scaling and Name Resolution
+Knowledge Check and Review",30,3,9,Scaling and Name Resolution,,FALSE
+"Fact Finding Exercise : Cloud
+Foundations 1",90,3,9,Serverless and Containers,,FALSE
+Lunch,45,3,9,Serverless and Containers,,TRUE
+Serverless and Containers Overview,10,3,9,Serverless and Containers,,FALSE
+AWS Lambda,30,3,9,Serverless and Containers,,FALSE
+Break,15,3,9,Serverless and Containers,,TRUE
+Café Lab : Working with AWS Lambda,60,3,9,Serverless and Containers,,FALSE
+Exit Ticket,20,3,9,Serverless and Containers,,TRUE
+Flex Time,35,3,9,Serverless and Containers,,TRUE
+Recap,20,4,9,Serverless and Containers,,TRUE
+Challenge Lab : AWS Lambda,90,4,9,Serverless and Containers,,FALSE
+Break,15,4,9,Serverless and Containers,,TRUE
+APIs and REST,30,4,9,Serverless and Containers,,FALSE
+Amazon API Gateway,30,4,9,Serverless and Containers,,FALSE
+Lunch,45,4,9,Serverless and Containers,,TRUE
+AWS Step Functions,30,4,9,Serverless and Containers,,FALSE
+Containers on AWS,45,4,9,Serverless and Containers,,FALSE
+Break,15,4,9,Serverless and Containers,,TRUE
+"Serverless and Containers
+Knowledge Check and Review",30,4,9,Serverless and Containers,,FALSE
+Exit Ticket,20,4,9,Serverless and Containers,,TRUE
+Work on Resume,35,4,9,Serverless and Containers,Professional Skills,FALSE
+Interview Practice,30,4,9,Serverless and Containers,Professional Skills,FALSE
+Flex Time,15,4,9,Serverless and Containers,,TRUE
+Recap,20,5,9,AWS Database Services,,TRUE
+AWS Database Services Overview,10,5,9,AWS Database Services,,FALSE
+Introduction to Databases on AWS,30,5,9,AWS Database Services,,FALSE
+Amazon Redshift,60,5,9,AWS Database Services,,FALSE
+Break,15,5,9,AWS Database Services,,TRUE
+Amazon Aurora,40,5,9,AWS Database Services,,FALSE
+Lunch,45,5,9,AWS Database Services,,TRUE
+AWS Database Migration Service,55,5,9,AWS Database Services,,FALSE
+Café Lab : Migrate to Amazon RDS,75,5,9,AWS Database Services,,FALSE
+Break,15,5,9,AWS Database Services,,TRUE
+"AWS Database Services Knowledge
+Check and Review",30,5,9,AWS Database Services,,FALSE
+Exit Ticket,20,5,9,AWS Database Services,,TRUE
+Flex Time,35,5,9,AWS Database Services,,TRUE
+Recap,20,1,10,AWS Networking Services,,TRUE
+AWS Networking Services Overview,10,1,10,AWS Networking Services,,FALSE
+Amazon VPC,65,1,10,AWS Networking Services,,FALSE
+Break,15,1,10,AWS Networking Services,,TRUE
+VPC Connectivity Options,90,1,10,AWS Networking Services,,FALSE
+Lunch,45,1,10,AWS Networking Services,,TRUE
+"Securing and Troubleshooting Your
+Network",75,1,10,AWS Networking Services,,FALSE
+Lab : Configuring a VPC,45,1,10,AWS Networking Services,,FALSE
+Break,15,1,10,AWS Networking Services,,TRUE
+Exit Ticket,20,1,10,AWS Networking Services,,TRUE
+Flex Time,50,1,10,AWS Networking Services,,TRUE
+Recap,20,2,10,AWS Networking Services,,TRUE
+"Café Activity : Troubleshoot an Amazon
+VPC",95,2,10,AWS Networking Services,,FALSE
+Break,15,2,10,AWS Networking Services,,TRUE
+"AWS Networking Services Knowledge
+Check and Review",30,2,10,AWS Networking Services,,FALSE
+Work on Resume,45,2,10,AWS Networking Services,Professional Skills,FALSE
+Lunch,45,2,10,AWS Networking Services,,TRUE
+Interview Practice,70,2,10,AWS Networking Services,Professional Skills,FALSE
+Break,15,2,10,AWS Networking Services,,TRUE
+Elevator Pitch,65,2,10,AWS Networking Services,Professional Skills,FALSE
+Exit Ticket,20,2,10,AWS Networking Services,,TRUE
+Flex Time,30,2,10,AWS Networking Services,,TRUE
+Recap,20,3,10,AWS Networking Services,,TRUE
+AWS re / Start Interview Preparation,45,3,10,AWS Networking Services,Professional Skills,FALSE
+Break,15,3,10,AWS Networking Services,,TRUE
+Storage and Archiving Overview,10,3,10,Storage and Archiving,,FALSE
+Cloud Storage Overview,40,3,10,Storage and Archiving,,FALSE
+Lunch,45,3,10,Storage and Archiving,,TRUE
+Amazon Elastic Block Store,105,3,10,Storage and Archiving,,FALSE
+Break,15,3,10,Storage and Archiving,,TRUE
+Lab : Working with EBS,45,3,10,Storage and Archiving,,FALSE
+Exit Ticket,20,3,10,Storage and Archiving,,TRUE
+Flex Time,40,3,10,Storage and Archiving,,TRUE
+Recap,20,4,10,Storage and Archiving,,TRUE
+Instance Store,60,4,10,Storage and Archiving,,FALSE
+Break,15,4,10,Storage and Archiving,,TRUE
+Amazon EFS,35,4,10,Storage and Archiving,,FALSE
+Storage with Amazon S3,60,4,10,Storage and Archiving,,FALSE
+Lunch,45,4,10,Storage and Archiving,,TRUE
+Amazon S3 Glacier,60,4,10,Storage and Archiving,,FALSE
+Lab : Managing Storage,45,4,10,Storage and Archiving,,FALSE
+Break,15,4,10,Storage and Archiving,,TRUE
+AWS Storage Gateway,40,4,10,Storage and Archiving,,FALSE
+Exit Ticket,20,4,10,Storage and Archiving,,TRUE
+Flex Time,35,4,10,Storage and Archiving,,TRUE
+Recap,20,5,10,Storage and Archiving,,TRUE
+Café Lab : Working with Amazon S3,110,5,10,Storage and Archiving,,FALSE
+Break,15,5,10,Storage and Archiving,,TRUE
+Challenge Lab : Amazon S3,45,5,10,Storage and Archiving,,FALSE
+Lunch,45,5,10,Storage and Archiving,,TRUE
+"AWS Data Transfer and Migration
+Services",45,5,10,Storage and Archiving,,FALSE
+Break,15,5,10,Storage and Archiving,,TRUE
+"Storage and Archiving Knowledge
+Check and Review",30,5,10,Storage and Archiving,,FALSE
+Exit Ticket,20,5,10,Storage and Archiving,,TRUE
+Work on Resume / Interview Practice,50,5,10,Storage and Archiving,Professional Skills,FALSE
+Flex Time,55,5,10,Storage and Archiving,,TRUE
+Recap,20,1,11,Monitoring and Security,,TRUE
+Introduce Monitoring and Security,10,1,11,Monitoring and Security,,FALSE
+Amazon CloudWatch,75,1,11,Monitoring and Security,,FALSE
+Break,15,1,11,Monitoring and Security,,TRUE
+"Deep Dive : Amazon CloudWatch -
+Logs and Events",60,1,11,Monitoring and Security,,FALSE
+Lunch,45,1,11,Monitoring and Security,,TRUE
+"Lab : Monitoring your applications
+and infrastructure",65,1,11,Monitoring and Security,,FALSE
+Break,15,1,11,Monitoring and Security,,TRUE
+AWS CloudTrail,75,1,11,Monitoring and Security,,FALSE
+"AWS Service Integration with
+Amazon Athena",30,1,11,Monitoring and Security,,FALSE
+Exit Ticket,20,1,11,Monitoring and Security,,TRUE
+Flex Time,20,1,11,Monitoring and Security,,TRUE
+Recap,20,2,11,Monitoring and Security,,TRUE
+"Café Activity : Working with AWS
+CloudTrail and Knowledge Check",90,2,11,Monitoring and Security,,FALSE
+Break,15,2,11,Monitoring and Security,,TRUE
+Review Monitoring and Security,15,2,11,Monitoring and Security,,FALSE
+"Introduce Managing Resource
+Consumption",10,2,11,Managing Resource Consumption,,FALSE
+Introduction to AWS Organizations,25,2,11,Managing Resource Consumption,,FALSE
+Lunch,45,2,11,Managing Resource Consumption,,TRUE
+Tagging,35,2,11,Managing Resource Consumption,,FALSE
+Lab : Managing Resources with Tagging,30,2,11,Managing Resource Consumption,,FALSE
+"Cost Management and Best Practices
+and Billing Demonstration",65,2,11,Managing Resource Consumption,,FALSE
+Break,15,2,11,Managing Resource Consumption,,TRUE
+AWS Support Services,40,2,11,Managing Resource Consumption,,FALSE
+Exit Ticket,20,2,11,Managing Resource Consumption,,TRUE
+Flex Time,25,2,11,Managing Resource Consumption,,TRUE
+Recap,20,3,11,Managing Resource Consumption,,TRUE
+"Café Activity : Optimize Utilization and
+Knowledge Check",60,3,11,Managing Resource Consumption,,FALSE
+Break,15,3,11,Managing Resource Consumption,,TRUE
+"Review Managing Resource
+Consumption",15,3,11,Managing Resource Consumption,,FALSE
+"Fact Finding exercise : Cloud
+Foundations 2",75,3,11,Managing Resource Consumption,,FALSE
+Lunch,45,3,11,Managing Resource Consumption,,TRUE
+Networking Event,65,3,11,Managing Resource Consumption,,FALSE
+"Introduce Creating Automated and
+Repeatable Deployments",10,3,11,Creating Automated and Repeatable Deployments,,FALSE
+Break,15,3,11,Creating Automated and Repeatable Deployments,,TRUE
+"Creating Automated and Repeatable
+Deployments",45,3,11,Creating Automated and Repeatable Deployments,,FALSE
+AMI Building Strategy,60,3,11,Creating Automated and Repeatable Deployments,,FALSE
+Exit Ticket,20,3,11,Creating Automated and Repeatable Deployments,,TRUE
+Flex Time,5,3,11,Creating Automated and Repeatable Deployments,,TRUE
+Recap,20,4,11,Creating Automated and Repeatable Deployments,,TRUE
+Amazon EC2 Launch Templates,75,4,11,Creating Automated and Repeatable Deployments,,FALSE
+"Amazon EC2 Launch Templates
+Demonstration",15,4,11,Creating Automated and Repeatable Deployments,,FALSE
+Break,15,4,11,Creating Automated and Repeatable Deployments,,TRUE
+Infrastructure as Code,30,4,11,Creating Automated and Repeatable Deployments,,FALSE
+Introduction to JSON and YAML,60,4,11,Creating Automated and Repeatable Deployments,,FALSE
+Lunch,45,4,11,Creating Automated and Repeatable Deployments,,TRUE
+AWS CloudFormation,95,4,11,Creating Automated and Repeatable Deployments,,FALSE
+Break,15,4,11,Creating Automated and Repeatable Deployments,,TRUE
+"Lab : Automate Deployments with
+AWS CloudFormation",45,4,11,Creating Automated and Repeatable Deployments,,FALSE
+Exit Ticket,20,4,11,Creating Automated and Repeatable Deployments,,TRUE
+Flex Time,15,4,11,Creating Automated and Repeatable Deployments,,TRUE
+Recap,20,5,11,Creating Automated and Repeatable Deployments,,TRUE
+"Troubleshoot with AWS
+CloudFormation",60,5,11,Creating Automated and Repeatable Deployments,,FALSE
+Break,15,5,11,Creating Automated and Repeatable Deployments,,TRUE
+"Café Activity : Troubleshoot AWS
+CloudFormation Deployments",45,5,11,Creating Automated and Repeatable Deployments,,FALSE
+Lunch,45,5,11,Creating Automated and Repeatable Deployments,,TRUE
+"Fact Finding Exercise :
+CloudFormation",60,5,11,Creating Automated and Repeatable Deployments,,FALSE
+Break,15,5,11,Creating Automated and Repeatable Deployments,,TRUE
+Challenge Lab : CloudFormation,90,5,11,Creating Automated and Repeatable Deployments,,FALSE
+"Knowledge Check ( Creating
+Automated and Repeatable .
+Deployments )",15,5,11,Creating Automated and Repeatable Deployments,,FALSE
+"Review Automated and Repeatable
+Deployments",15,5,11,Creating Automated and Repeatable Deployments,,FALSE
+Exit Ticket,20,5,11,Creating Automated and Repeatable Deployments,,TRUE
+Flex Time,50,5,11,Creating Automated and Repeatable Deployments,,TRUE
+Recap,20,1,12,Ending and exam preparation,,TRUE
+"AWS Certified Cloud Practitioner
+( CCP ) Exam Preparation",120,1,12,Ending and exam preparation,,FALSE
+Break,15,1,12,Ending and exam preparation,,TRUE
+"Review AWS re / Start Post - Graduate
+Resources",45,1,12,Ending and exam preparation,,FALSE
+Lunch,45,1,12,Ending and exam preparation,,TRUE
+Company Visit,90,1,12,Ending and exam preparation,,FALSE
+Break,15,1,12,Ending and exam preparation,,TRUE
+Interview practice,20,1,12,Ending and exam preparation,,FALSE
+Company Visit,60,1,12,Ending and exam preparation,,FALSE
+Exit Ticket,20,1,12,Ending and exam preparation,,TRUE
+Recap,20,2,12,Ending and exam preparation,,TRUE
+"Cloud Practitioner Essentials
+Knowledge Checks",75,2,12,Ending and exam preparation,,FALSE
+Break,15,2,12,Ending and exam preparation,,TRUE
+"Cloud Practitioner Essentials .
+Knowledge Checks",80,2,12,Ending and exam preparation,,FALSE
+Lunch,45,2,12,Ending and exam preparation,,TRUE
+Networking Event,90,2,12,Ending and exam preparation,,FALSE
+Break,15,2,12,Ending and exam preparation,,TRUE
+Networking Event,90,2,12,Ending and exam preparation,,FALSE
+Exit Ticket,20,2,12,Ending and exam preparation,,TRUE
+Recap,20,3,12,Ending and exam preparation,,TRUE
+"Review product FAQ / review AWS /
+AWS whitepapers / exam blueprint",80,3,12,Ending and exam preparation,,FALSE
+Break,15,3,12,Ending and exam preparation,,TRUE
+"Review product FAQ / review AWS /
+AWS whitepapers / exam blueprint",85,3,12,Ending and exam preparation,,FALSE
+Lunch,45,3,12,Ending and exam preparation,,TRUE
+Mock exam and review,80,3,12,Ending and exam preparation,,FALSE
+Break,15,3,12,Ending and exam preparation,,TRUE
+Mock exam and review,90,3,12,Ending and exam preparation,,FALSE
+Exit Ticket,20,3,12,Ending and exam preparation,,TRUE
+Recap,20,4,12,Ending and exam preparation,,TRUE
+"Review product FAQ / review AWS /
+AWS whitepapers / exam blueprint",80,4,12,Ending and exam preparation,,FALSE
+Break,15,4,12,Ending and exam preparation,,TRUE
+"Review product FAQ / review AWS /
+AWS whitepapers / exam blueprint",85,4,12,Ending and exam preparation,,FALSE
+Lunch,45,4,12,Ending and exam preparation,,TRUE
+Mock exam and review,80,4,12,Ending and exam preparation,,FALSE
+Break,15,4,12,Ending and exam preparation,,TRUE
+Mock exam and review,85,4,12,Ending and exam preparation,,FALSE
+Exit Ticket,20,4,12,Ending and exam preparation,,TRUE
+Recap,20,5,12,Ending and exam preparation,,TRUE
+Exam Day,335,5,12,Ending and exam preparation,,FALSE

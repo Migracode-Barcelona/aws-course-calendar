@@ -1,0 +1,260 @@
+module_name,full_date,day,time_start,time_end,day_plan
+Introduction,16/01/2024,Tuesday,18:00,21:00,Recap - 10 min | Opening - 20 min | Welcome & Expectations - 45 min | Program Overview and Introductions - 60 min | Curriculum Overview - 30 min | Exit Ticket - 10 min | Flex Time - 5 min
+Introduction,17/01/2024,Wednesday,18:00,21:00,Recap - 10 min | Vendor Introduction - 45 min | Introduce Exit Ticket Activity - 15 min | Self-Assessment: Who Am I? - 45 min | Activity: Introduction to Amazon Leadership Principles - 30 min | Exit Ticket - 10 min | Flex Time - 25 min
+Cloud Foundations,18/01/2024,Thursday,18:00,21:00,Recap - 10 min | Introduction to Computing and Knowledge Check - 50 min | Basic Computing Concepts and Knowledge Check - 55 min | Development Team Roles and Knowledge Check - 40 min | Exit Ticket - 10 min | Flex Time - 15 min
+Cloud Foundations,20/01/2024,Saturday,10:30,13:30,Recap - 10 min | What is Cloud Computing and Knowledge Check - 45 min | Activity: Cloud Roles - 90 min | Exit Ticket - 10 min | Flex Time - 25 min
+Cloud Foundations,22/01/2024,Monday,18:00,21:00,Recap - 10 min | Activity: Setting Goals - 105 min | Activity: Career Goals - 45 min | Exit Ticket - 10 min | Flex Time - 10 min
+Cloud Foundations,23/01/2024,Tuesday,18:00,21:00,Recap - 10 min | Advantages of Cloud Computing and Knowledge Check - 95 min | Exit Ticket - 10 min | Flex Time - 65 min
+Cloud Foundations,24/01/2024,Wednesday,18:00,21:00,Recap - 10 min | Communication and STAR methodology - 135 min | Exit Ticket - 10 min | Flex Time - 25 min
+Cloud Foundations,25/01/2024,Thursday,18:00,21:00,Recap - 10 min | What is Amazon Web Services (AWS) and Knowledge Check - 55 min | Introduction to AWS Training and Certification - 45 min | Fundamentals of AWS Pricing and Knowledge Check - 45 min | Exit Ticket - 10 min | Flex Time - 15 min
+Cloud Foundations,27/01/2024,Saturday,10:30,13:30,Recap - 10 min | AWS Infrastructure Overview and Knowledge Check - 45 min | AWS Services and Service Category Overview and Knowledge Check - 50 min | AWS Shared Responsibility Model and Knowledge Check - 35 min | Amazon Simple Storage Service (S3) - 20 min | Exit Ticket - 10 min | Flex Time - 10 min
+Cloud Foundations,29/01/2024,Monday,18:00,21:00,Recap - 10 min | Amazon S3 Demo and Knowledge Check - 40 min | Amazon Elastic Compute Cloud (EC2) and Demo - 60 min | Lab: Introduction to Amazon EC2 and Knowledge Check - 60 min | Exit Ticket - 10 min
+Cloud Foundations,30/01/2024,Tuesday,18:00,21:00,Recap - 10 min | Recap and Quiz: Cloud Foundations - 45 min | Review Cloud Foundations - 25 min | Exit Ticket - 10 min | Flex Time - 90 min
+Linux,31/01/2024,Wednesday,18:00,21:00,"Recap - 10 min | Introduction to Linux - 50 min | Lab : Introduction to Linux and
+Knowledge Check - 45 min | Exit Ticket - 10 min | Flex Time - 65 min"
+Linux,01/02/2024,Thursday,18:00,21:00,"Recap - 10 min | Linux Command Line - 75 min | Lab : Linux Command Line and
+Knowledge Check - 45 min | Exit Ticket - 10 min | Flex Time - 40 min"
+Linux,03/02/2024,Saturday,10:30,13:30,"Recap - 10 min | Users and Groups - 65 min | Lab : Users and Groups and
+Knowledge Check - 60 min | Exit Ticket - 10 min | Flex Time - 35 min"
+Linux,05/02/2024,Monday,18:00,21:00,Recap - 10 min | Editing Files - 65 min | Lab : Editing Files and Knowledge Check - 75 min | Exit Ticket - 10 min | Flex Time - 20 min
+Linux,06/02/2024,Tuesday,18:00,21:00,"Recap - 10 min | Working with the File System - 65 min | Lab : Working with the File System and
+Knowledge Check - 45 min | Exit Ticket - 10 min | Flex Time - 50 min"
+Linux,07/02/2024,Wednesday,18:00,21:00,"Recap - 10 min | Working with Files - 65 min | Lab : Working with Files and
+Knowledge Check - 45 min | Exit Ticket - 10 min | Flex Time - 50 min"
+Linux,08/02/2024,Thursday,18:00,21:00,"Recap - 10 min | Managing File Permissions - 60 min | Lab : Managing File Permissions and
+Knowledge Check - 50 min | Exit Ticket - 10 min | Flex Time - 50 min"
+Linux,10/02/2024,Saturday,10:30,13:30,"Recap - 10 min | Working with Commands - 90 min | Lab : Working with Commands and
+Knowledge Check - 45 min | Exit Ticket - 10 min | Flex Time - 25 min"
+Linux,12/02/2024,Monday,18:00,21:00,"Recap - 10 min | Managing Processes - 65 min | Lab : Managing Processes and
+Knowledge Check - 60 min | Exit Ticket - 10 min | Flex Time - 35 min"
+Linux,13/02/2024,Tuesday,18:00,21:00,"Recap - 10 min | Managing Services - 65 min | Lab : Managing Services and
+Knowledge Check - 45 min | Exit Ticket - 10 min | Flex Time - 50 min"
+Linux,14/02/2024,Wednesday,18:00,21:00,"Recap - 10 min | The Bash Shell - 75 min | Lab : Bash Shell and Knowledge
+Check - 45 min | Exit Ticket - 10 min | Flex Time - 40 min"
+Linux,15/02/2024,Thursday,18:00,21:00,"Recap - 10 min | Bash Shell Scripting - 110 min | Lab : Bash Shell Scripting and
+Knowledge check - 40 min | Exit Ticket - 10 min | Flex Time - 10 min"
+Linux,17/02/2024,Saturday,10:30,13:30,"Recap - 10 min | Activity : Customer Obsession - 50 min | Software Management - 40 min | Lab : Software Management and
+Knowledge Check - 40 min | Exit Ticket - 10 min | Flex Time - 30 min"
+Linux,19/02/2024,Monday,18:00,21:00,"Recap - 10 min | Managing Log Files - 70 min | Lab : Managing Log Files and
+Knowledge Check - 25 min | Challenge Lab : Advanced Bash Shell
+Scripting on EC2 - 55 min | Exit Ticket - 10 min | Flex Time - 10 min"
+Linux,20/02/2024,Tuesday,18:00,21:00,Recap - 10 min | Review Linux - 30 min | Activity: Think Big - 120 min | Exit Ticket - 10 min | Flex Time - 10 min
+Networking,21/02/2024,Wednesday,18:00,21:00,"Recap - 10 min | Introduction to Networking and
+Knowledge Check - 50 min | Networking Concepts and Knowledge
+Check - 65 min | Internet Protocol - 45 min | Exit Ticket - 10 min"
+Networking,22/02/2024,Thursday,18:00,21:00,"Recap - 10 min | Internet Protocol ( IP ) Demo and
+Knowledge Check - 35 min | Networking in the AWS Cloud - 55 min | Lab : Public and Private IPs - 60 min | Exit Ticket - 10 min | Flex Time - 10 min"
+Networking,24/02/2024,Saturday,10:30,13:30,Recap - 10 min | Lab : Dynamic and Static IPs - 60 min | AWS VPC Demonstration - 45 min | Amazon VPC Knowledge Check - 15 min | Exit Ticket - 10 min | Flex Time - 40 min
+Networking,26/02/2024,Monday,18:00,21:00,Recap - 10 min | Lab : Create subnets in a VPC - 60 min | Lab : Networking resources for a VPC - 60 min | Exit Ticket - 10 min | Flex Time - 40 min
+Networking,27/02/2024,Tuesday,18:00,21:00,Recap - 10 min | Emotional Intelligence - 90 min | Exit Ticket - 10 min | Flex Time - 70 min
+Networking,28/02/2024,Wednesday,18:00,21:00,Recap - 10 min | IP Subnetting and Knowledge Check - 85 min | Exit Ticket - 10 min | Flex Time - 75 min
+Networking,29/02/2024,Thursday,18:00,21:00,Recap - 10 min | Alumni presentation with Students - 90 min | Activity : Learn and Be Curious - 50 min | Exit Ticket - 10 min | Flex Time - 20 min
+Networking,02/03/2024,Saturday,10:30,13:30,Recap - 10 min | Lab : Troubleshooting Commands - 60 min | Lab : Troubleshooting Network Issue - 60 min | Exit Ticket - 10 min | Flex Time - 40 min
+Networking,04/03/2024,Monday,18:00,21:00,"Recap - 10 min | Additional Networking Protocols - 75 min | Additional Networking Protocols
+Activities and Knowledge Check - 35 min | Exit Ticket - 10 min | Flex Time - 50 min"
+Networking,05/03/2024,Tuesday,18:00,21:00,"Recap - 10 min | Lab : Build your VPC and launch a
+web server - 60 min | Additional Networking Technologies
+and Knowledge Check - 40 min | Review Networking - 20 min | Exit Ticket - 10 min | Flex Time - 40 min"
+Security,06/03/2024,Wednesday,18:00,21:00,"Recap - 10 min | Introduction to Security - 65 min | Introduction to Security Knowledge
+Check - 15 min | Security Life Cycle : Prevention - 65 min | Security Life Cycle - Prevention
+Knowledge Check - 15 min | Exit Ticket - 10 min"
+Security,07/03/2024,Thursday,18:00,21:00,"Recap - 10 min | Prevention : Network Hardening - 75 min | Lab : Networking Hardening and
+Knowledge Check - 60 min | Exit Ticket - 10 min | Flex Time - 25 min"
+Security,09/03/2024,Saturday,10:30,13:30,"Recap - 10 min | Prevention : System Hardening - 40 min | Lab : Systems Hardening and
+Knowledge Check - 75 min | Prevention : Data Security - 35 min | Exit Ticket - 10 min | Flex Time - 10 min"
+Security,11/03/2024,Monday,18:00,21:00,"Recap - 10 min | Lab : Data Protection Using Encryption
+and Knowledge Check - 60 min | Prevention : Public Key Infrastructure
+and Demo - 35 min | Demo : Amazon Certificate Manager
+and Knowledge Check - 25 min | Exit Ticket - 10 min | Flex Time - 40 min"
+Security,12/03/2024,Tuesday,18:00,21:00,"Recap - 10 min | Prevention : Identity Management - 65 min | Prevention : Identity Management
+Knowledge Check - 15 min | AWS Identity and Access
+Management ( IAM ) - 30 min | Exit Ticket - 10 min | Flex Time - 50 min"
+Security,13/03/2024,Wednesday,18:00,21:00,"Recap - 10 min | Lab : Introduction to IAM and
+Knowledge Check - 60 min | Detection - 40 min | Lab : Malware Protection and
+Knowledge Check - 60 min | Exit Ticket - 10 min"
+Security,14/03/2024,Thursday,18:00,21:00,"Recap - 10 min | AWS CloudTrail and Knowledge
+Check - 35 min | AWS Config and Knowledge Check - 50 min | Response - 45 min | Exit Ticket - 10 min | Flex Time - 30 min"
+Security,16/03/2024,Saturday,10:30,13:30,"Recap - 10 min | Activity : Incident Response and
+Knowledge Check - 45 min | Analysis - 45 min | Exit Ticket - 10 min | Flex Time - 70 min"
+Security,18/03/2024,Monday,18:00,21:00,"Recap - 10 min | Lab : Monitor an EC2 Instance and
+Knowledge Check - 75 min | Activity : Earn Trust - 50 min | Exit Ticket - 10 min | Flex Time - 35 min"
+Security,19/03/2024,Tuesday,18:00,21:00,"Recap - 10 min | Presentation from future peers at
+company - 40 min | AWS Trusted Advisor and Knowledge
+Check - 80 min | Security Best Practices and
+Knowledge Check - 35 min | Exit Ticket - 10 min | Flex Time - 5 min"
+Security,20/03/2024,Wednesday,18:00,21:00,"Recap - 10 min | AWS Compliance Program and
+Knowledge Check - 50 min | AWS Security Resources and
+Knowledge Check - 35 min | Review Security - 30 min | Exit Ticket - 10 min | Flex Time - 45 min"
+Python Programming,21/03/2024,Thursday,18:00,21:00,"Recap - 10 min | Introduction to Programming - What is
+Programming ? - 25 min | AWS Cloud 9 Instructor Demonstration - 30 min | Lab : Hello World - 60 min | Introduction to Programming -
+Categorize a Value as a Data Type - 20 min | Exit Ticket - 10 min | Flex Time - 25 min"
+Python Programming,23/03/2024,Saturday,10:30,13:30,Recap - 10 min | Lab : Numeric data types - 80 min | Lab : String data type - 60 min | Exit Ticket - 10 min | Flex Time - 20 min
+Python Programming,25/03/2024,Monday,18:00,21:00,"Recap - 10 min | Lab : List , tuple , dictionary - 60 min | Lab : Categorize values - 60 min | Introduction to Programming -
+Combine Values into Composite Data
+Types - 15 min | Exit Ticket - 10 min | Flex Time - 25 min"
+Python Programming,26/03/2024,Tuesday,18:00,21:00,"Recap - 10 min | Lab : Composite data types - 60 min | Introduction to Programming -
+Functions - 25 min | Introduction to Programming - Follow
+the Execution Path of a Program - 15 min | Lab : Conditionals - 60 min | Exit Ticket - 10 min"
+Python Programming,27/03/2024,Wednesday,18:00,21:00,"Recap - 10 min | Lab : Loops - 60 min | Activity : Have a Backbone - 40 min | Introduction to Programming -
+Version Control - 30 min | Exit Ticket - 10 min | Flex Time - 30 min"
+Python Programming,28/03/2024,Thursday,18:00,21:00,"Recap - 10 min | Lab : Create a git repository and
+Knowledge Check - 75 min | Introduction to Python - 30 min | Lab : Preparing to analyze insulin
+with Python and Knowledge Check - 45 min | Exit Ticket - 10 min | Flex Time - 10 min"
+Python Programming,02/04/2024,Tuesday,18:00,21:00,Recap - 10 min | Python Basics - 145 min | Exit Ticket - 10 min | Flex Time - 15 min
+Python Programming,03/04/2024,Wednesday,18:00,21:00,"Recap - 10 min | Meet future peers at company - 45 min | Lab : Working with the string
+sequence and numeric weight of
+insulin in python and Knowledge
+Check - 60 min | Interview Practice - 30 min | Exit Ticket - 10 min | Flex Time - 25 min"
+Python Programming,04/04/2024,Thursday,18:00,21:00,Recap - 10 min | Flow Control - 145 min | Exit Ticket - 10 min | Flex Time - 15 min
+Python Programming,06/04/2024,Saturday,10:30,13:30,"Recap - 10 min | Lab : Calculating the net charge of
+insulin using python lists and loops
+and Knowledge Check - 55 min | Functions - 80 min | Exit Ticket - 10 min | Flex Time - 25 min"
+Python Programming,08/04/2024,Monday,18:00,21:00,"Recap - 10 min | Lab : Use functions to implement a
+Caesar Cipher and Knowledge Check - 105 min | Exit Ticket - 10 min | Flex Time - 55 min"
+Python Programming,09/04/2024,Tuesday,18:00,21:00,"Recap - 10 min | Mods and Libraries - 80 min | Lab : File handlers and modules for
+retrieving information about insulin
+and Knowledge Check - 55 min | Exit Ticket - 10 min | Flex Time - 25 min"
+Python Programming,10/04/2024,Wednesday,18:00,21:00,"Recap - 10 min | Python for System Administration - 80 min | Lab : System Administration with
+Python and Knowledge Check - 65 min | Exit Ticket - 10 min | Flex Time - 15 min"
+Python Programming,11/04/2024,Thursday,18:00,21:00,Recap - 10 min | Debugging and Testing - 70 min | Lab : Using the Debugger - 40 min | Exit Ticket - 10 min | Flex Time - 50 min
+Python Programming,13/04/2024,Saturday,10:30,13:30,"Recap - 10 min | Lab : Debugging Hello World and Caesar
+Cipher - 80 min | Knowledge Check ( Debugging ) - 15 min | DevOps and Continuous Integration - 40 min | Exit Ticket - 10 min | Flex Time - 25 min"
+Python Programming,15/04/2024,Monday,18:00,21:00,"Recap - 10 min | Lab : Evaluate a DevOps tool - 45 min | Lab : Explore the value of automation - 45 min | Lab : Compare and contrast
+automation and orchestration and
+Knowledge Check - 60 min | Exit Ticket - 10 min | Flex Time - 10 min"
+Python Programming,16/04/2024,Tuesday,18:00,21:00,"Recap - 10 min | Configuration Management and
+Knowledge Check - 60 min | Fact finding exercise : Python - 70 min | Exit Ticket - 10 min | Flex Time - 30 min"
+Python Programming,17/04/2024,Wednesday,18:00,21:00,Recap - 10 min | Challenge lab : Python - 60 min | Review Python - 30 min | Exit Ticket - 10 min | Flex Time - 70 min
+Databases,18/04/2024,Thursday,18:00,21:00,"Recap - 10 min | Introduction to Databases - 40 min | Activity : Introduction to Databases
+and Knowledge Check - 55 min | Data Interaction and Database
+Transaction and Knowledge Check - 65 min | Exit Ticket - 10 min"
+Databases,20/04/2024,Saturday,10:30,13:30,"Recap - 10 min | Creating Tables and Learning
+Different Data Types - 90 min | Activity : Creating tables and data
+types - 30 min | Exit Ticket - 10 min | Flex Time - 40 min"
+Databases,22/04/2024,Monday,18:00,21:00,"Recap - 10 min | Lab : Database table operations and
+Knowledge Check - 45 min | Interview Practice - 45 min | Inserting Data into a Database - 55 min | Exit Ticket - 10 min | Flex Time - 15 min"
+Databases,23/04/2024,Tuesday,18:00,21:00,Recap - 10 min | Lab: Inserting Data and Knowledge Check - 40 min | Selecting Data - 55 min | Lab: Selecting data from a database and Knowledge Check - 60 min | Exit Ticket - 10 min | Flex Time - 5 min
+Databases,24/04/2024,Wednesday,18:00,21:00,Recap - 10 min | Resume Creation (Lecture) - 35 min | Work on Resume - 45 min | Exit Ticket - 10 min | Flex Time - 80 min
+Databases,25/04/2024,Thursday,18:00,21:00,Recap - 10 min | Performing a Conditional Search - 90 min | Exit Ticket - 10 min | Flex Time - 70 min
+Databases,27/04/2024,Saturday,10:30,13:30,Recap - 10 min | Activities and Lab: Performing a Conditional Search and Knowledge Check - 100 min | Working with Functions - 55 min | Exit Ticket - 10 min | Flex Time - 5 min
+Databases,29/04/2024,Monday,18:00,21:00,Recap - 10 min | Lab: Working with functions and Knowledge Check - 60 min | Organizing Data - 55 min | Exit Ticket - 10 min | Flex Time - 45 min
+Databases,30/04/2024,Tuesday,18:00,21:00,Recap - 10 min | Lab: Organizing Data and Knowledge Check - 60 min | Retrieving Data - 45 min | Exit Ticket - 10 min | Flex Time - 55 min
+Databases,02/05/2024,Thursday,18:00,21:00,Recap - 10 min | Lab: Build your DB server and Knowledge Check - 60 min | Amazon RDS and Demonstration - 60 min | Exit Ticket - 10 min | Flex Time - 40 min
+Databases,04/05/2024,Saturday,10:30,13:30,Recap - 10 min | Lab: Introduction to Amazon Aurora and Knowledge Check - 55 min | Amazon DynamoDB and Demonstration - 60 min | Exit Ticket - 10 min | Flex Time - 45 min
+Databases,06/05/2024,Monday,18:00,21:00,Recap - 10 min | Lab: Introduction to Amazon DynamoDB and Knowledge Check - 50 min | Fact finding exercise: Databases and Review - 60 min | Challenge lab: Build and Access an RDS Server - 45 min | Exit Ticket - 10 min | Flex Time - 5 min
+Databases,07/05/2024,Tuesday,18:00,21:00,Recap - 10 min | Review Databases - 30 min | Exit Ticket - 10 min | Flex Time - 130 min
+AWS Architecture,08/05/2024,Wednesday,18:00,21:00,Recap - 10 min | AWS Architecture Overview - 10 min | AWS Cloud Adoption Framework - 25 min | AWS Well-Architected Framework - 30 min | Well-Architected Principles - 20 min | Reliability and High Availability - 20 min | Transitioning a Data Center to the Cloud - 30 min | Exit Ticket - 10 min | Flex Time - 25 min
+AWS Architecture,09/05/2024,Thursday,18:00,21:00,Recap - 10 min | Fact Finding exercise : Well-Architected Framework - 60 min | Well-Architected Knowledge Check and Review - 30 min | Exit Ticket - 10 min | Flex Time - 70 min
+Systems Operations,11/05/2024,Saturday,10:30,13:30,Recap - 10 min | Systems Operations Overview - 10 min | Systems Operations on AWS - 45 min | Activity : Troubleshooting Knowledge Base Introduction - 30 min | AWS Identity and Access Management (IAM) Review - 55 min | Exit Ticket - 10 min | Flex Time - 20 min
+Systems Operations,13/05/2024,Monday,18:00,21:00,Recap - 10 min | AWS Command Line Interface (AWS CLI) - 60 min | Café Lab : Install and use the AWS CLI - 75 min | Exit Ticket - 10 min | Flex Time - 25 min
+Systems Operations,14/05/2024,Tuesday,18:00,21:00,Recap - 10 min | Systems Operations Knowledge Check and Review - 30 min | Exit Ticket - 10 min | Flex Time - 130 min
+Tooling and Automation,15/05/2024,Wednesday,18:00,21:00,Recap - 10 min | Tooling and Automation Overview - 10 min | AWS Systems Manager - 45 min | Lab : Using AWS Systems Manager - 30 min | Administration and Development Tools - 20 min | Tooling and Automation Knowledge Check and Review - 30 min | Exit Ticket - 10 min | Flex Time - 25 min
+Servers,16/05/2024,Thursday,18:00,21:00,Recap - 10 min | Servers Overview - 10 min | Hosting a Static Website on Amazon S3 - 15 min | Café Lab : Creating a Website on Amazon S3 - 75 min | Exit Ticket - 10 min | Flex Time - 60 min
+Servers,21/05/2024,Tuesday,18:00,21:00,Recap - 10 min | Computing on AWS and Demonstration - 90 min | Managing Your AWS Instances - 45 min | Exit Ticket - 10 min | Flex Time - 25 min
+Servers,22/05/2024,Wednesday,18:00,21:00,Recap - 10 min | Lab : Creating Amazon EC2 Instances - 45 min | Challenge lab : Linux EC2 Instance - 55 min | AWS Elastic Beanstalk - 35 min | Exit Ticket - 10 min | Flex Time - 25 min
+Servers,23/05/2024,Thursday,18:00,21:00,"Recap - 10 min | Café Lab : Troubleshooting the
+Creation of an EC2 Instance - 75 min | Servers Knowledge Check and
+Review - 30 min | Exit Ticket - 10 min | Flex Time - 55 min"
+Scaling and Name Resolution,25/05/2024,Saturday,10:30,13:30,"Recap - 10 min | Scaling and Name Resolution
+Overview - 10 min | Elastic Load Balancing - 65 min | ELB Load Balancers and Listeners - 75 min | Exit Ticket - 10 min | Flex Time - 10 min"
+Scaling and Name Resolution,27/05/2024,Monday,18:00,21:00,"Recap - 10 min | Amazon EC2 Auto Scaling - 80 min | Lab : Scaling and Load Balancing Your
+Architecture - 45 min | Exit Ticket - 10 min | Flex Time - 35 min"
+Scaling and Name Resolution,28/05/2024,Tuesday,18:00,21:00,Recap - 10 min | Lab : Using Auto Scaling in AWS ( Linux ) - 45 min | Auto Scaling Prediction Challenge - 85 min | Exit Ticket - 10 min | Flex Time - 30 min
+Scaling and Name Resolution,29/05/2024,Wednesday,18:00,21:00,"Recap - 10 min | Amazon Route 53 - 60 min | Amazon CloudFront - 15 min | Café Lab : Amazon Route 53 Failover
+Routing - 80 min | Exit Ticket - 10 min | Flex Time - 5 min"
+Scaling and Name Resolution,30/05/2024,Thursday,18:00,21:00,"Recap - 10 min | Scaling and Name Resolution
+Knowledge Check and Review - 30 min | Exit Ticket - 10 min | Flex Time - 130 min"
+Serverless and Containers,01/06/2024,Saturday,10:30,13:30,"Recap - 10 min | Fact Finding Exercise : Cloud
+Foundations 1 - 90 min | Serverless and Containers Overview - 10 min | AWS Lambda - 30 min | Exit Ticket - 10 min | Flex Time - 30 min"
+Serverless and Containers,03/06/2024,Monday,18:00,21:00,Recap - 10 min | Café Lab : Working with AWS Lambda - 60 min | Challenge Lab : AWS Lambda - 90 min | Exit Ticket - 10 min | Flex Time - 10 min
+Serverless and Containers,04/06/2024,Tuesday,18:00,21:00,Recap - 10 min | APIs and REST - 30 min | Amazon API Gateway - 30 min | AWS Step Functions - 30 min | Containers on AWS - 45 min | Exit Ticket - 10 min | Flex Time - 25 min
+Serverless and Containers,05/06/2024,Wednesday,18:00,21:00,"Recap - 10 min | Serverless and Containers
+Knowledge Check and Review - 30 min | Exit Ticket - 10 min | Flex Time - 130 min"
+AWS Database Services,06/06/2024,Thursday,18:00,21:00,Recap - 10 min | AWS Database Services Overview - 10 min | Introduction to Databases on AWS - 30 min | Amazon Redshift - 60 min | Amazon Aurora - 40 min | Exit Ticket - 10 min | Flex Time - 20 min
+AWS Database Services,08/06/2024,Saturday,10:30,13:30,"Recap - 10 min | AWS Database Migration Service - 55 min | Café Lab : Migrate to Amazon RDS - 75 min | AWS Database Services Knowledge
+Check and Review - 30 min | Exit Ticket - 10 min"
+AWS Networking Services,10/06/2024,Monday,18:00,21:00,Recap - 10 min | AWS Networking Services Overview - 10 min | Amazon VPC - 65 min | Exit Ticket - 10 min | Flex Time - 85 min
+AWS Networking Services,11/06/2024,Tuesday,18:00,21:00,Recap - 10 min | VPC Connectivity Options - 90 min | Exit Ticket - 10 min | Flex Time - 70 min
+AWS Networking Services,12/06/2024,Wednesday,18:00,21:00,"Recap - 10 min | Securing and Troubleshooting Your
+Network - 75 min | Lab : Configuring a VPC - 45 min | Exit Ticket - 10 min | Flex Time - 40 min"
+AWS Networking Services,13/06/2024,Thursday,18:00,21:00,"Recap - 10 min | Café Activity : Troubleshoot an Amazon
+VPC - 95 min | AWS Networking Services Knowledge
+Check and Review - 30 min | Exit Ticket - 10 min | Flex Time - 35 min"
+Storage and Archiving,15/06/2024,Saturday,10:30,13:30,Recap - 10 min | Storage and Archiving Overview - 10 min | Cloud Storage Overview - 40 min | Amazon Elastic Block Store - 105 min | Exit Ticket - 10 min | Flex Time - 5 min
+Storage and Archiving,17/06/2024,Monday,18:00,21:00,Recap - 10 min | Lab : Working with EBS - 45 min | Instance Store - 60 min | Amazon EFS - 35 min | Exit Ticket - 10 min | Flex Time - 20 min
+Storage and Archiving,18/06/2024,Tuesday,18:00,21:00,Recap - 10 min | Storage with Amazon S3 - 60 min | Amazon S3 Glacier - 60 min | Exit Ticket - 10 min | Flex Time - 40 min
+Storage and Archiving,19/06/2024,Wednesday,18:00,21:00,Recap - 10 min | Lab : Managing Storage - 45 min | AWS Storage Gateway - 40 min | Exit Ticket - 10 min | Flex Time - 75 min
+Storage and Archiving,20/06/2024,Thursday,18:00,21:00,Recap - 10 min | Café Lab : Working with Amazon S3 - 110 min | Challenge Lab : Amazon S3 - 45 min | Exit Ticket - 10 min | Flex Time - 5 min
+Storage and Archiving,25/06/2024,Tuesday,18:00,21:00,"Recap - 10 min | AWS Data Transfer and Migration
+Services - 45 min | Storage and Archiving Knowledge
+Check and Review - 30 min | Exit Ticket - 10 min | Flex Time - 85 min"
+Monitoring and Security,26/06/2024,Wednesday,18:00,21:00,"Recap - 10 min | Introduce Monitoring and Security - 10 min | Amazon CloudWatch - 75 min | Deep Dive : Amazon CloudWatch -
+Logs and Events - 60 min | Exit Ticket - 10 min | Flex Time - 15 min"
+Monitoring and Security,27/06/2024,Thursday,18:00,21:00,"Recap - 10 min | Lab : Monitoring your applications
+and infrastructure - 65 min | AWS CloudTrail - 75 min | Exit Ticket - 10 min | Flex Time - 20 min"
+Monitoring and Security,29/06/2024,Saturday,10:30,13:30,"Recap - 10 min | AWS Service Integration with
+Amazon Athena - 30 min | Café Activity : Working with AWS
+CloudTrail and Knowledge Check - 90 min | Review Monitoring and Security - 15 min | Exit Ticket - 10 min | Flex Time - 25 min"
+Managing Resource Consumption,01/07/2024,Monday,18:00,21:00,"Recap - 10 min | Introduce Managing Resource
+Consumption - 10 min | Introduction to AWS Organizations - 25 min | Tagging - 35 min | Lab : Managing Resources with Tagging - 30 min | Exit Ticket - 10 min | Flex Time - 60 min"
+Managing Resource Consumption,02/07/2024,Tuesday,18:00,21:00,"Recap - 10 min | Cost Management and Best Practices
+and Billing Demonstration - 65 min | AWS Support Services - 40 min | Exit Ticket - 10 min | Flex Time - 55 min"
+Managing Resource Consumption,03/07/2024,Wednesday,18:00,21:00,"Recap - 10 min | Café Activity : Optimize Utilization and
+Knowledge Check - 60 min | Review Managing Resource
+Consumption - 15 min | Fact Finding exercise : Cloud
+Foundations 2 - 75 min | Exit Ticket - 10 min | Flex Time - 10 min"
+Managing Resource Consumption,04/07/2024,Thursday,18:00,21:00,Recap - 10 min | Networking Event - 65 min | Exit Ticket - 10 min | Flex Time - 95 min
+Creating Automated and Repeatable Deployments,06/07/2024,Saturday,10:30,13:30,"Recap - 10 min | Introduce Creating Automated and
+Repeatable Deployments - 10 min | Creating Automated and Repeatable
+Deployments - 45 min | AMI Building Strategy - 60 min | Exit Ticket - 10 min | Flex Time - 45 min"
+Creating Automated and Repeatable Deployments,08/07/2024,Monday,18:00,21:00,"Recap - 10 min | Amazon EC2 Launch Templates - 75 min | Amazon EC2 Launch Templates
+Demonstration - 15 min | Infrastructure as Code - 30 min | Exit Ticket - 10 min | Flex Time - 40 min"
+Creating Automated and Repeatable Deployments,09/07/2024,Tuesday,18:00,21:00,Recap - 10 min | Introduction to JSON and YAML - 60 min | AWS CloudFormation - 95 min | Exit Ticket - 10 min | Flex Time - 5 min
+Creating Automated and Repeatable Deployments,10/07/2024,Wednesday,18:00,21:00,"Recap - 10 min | Lab : Automate Deployments with
+AWS CloudFormation - 45 min | Troubleshoot with AWS
+CloudFormation - 60 min | Café Activity : Troubleshoot AWS
+CloudFormation Deployments - 45 min | Exit Ticket - 10 min | Flex Time - 10 min"
+Creating Automated and Repeatable Deployments,11/07/2024,Thursday,18:00,21:00,"Recap - 10 min | Fact Finding Exercise :
+CloudFormation - 60 min | Challenge Lab : CloudFormation - 90 min | Exit Ticket - 10 min | Flex Time - 10 min"
+Creating Automated and Repeatable Deployments,13/07/2024,Saturday,10:30,13:30,"Recap - 10 min | Knowledge Check ( Creating
+Automated and Repeatable .
+Deployments ) - 15 min | Review Automated and Repeatable
+Deployments - 15 min | Exit Ticket - 10 min | Flex Time - 130 min"
+Ending and exam preparation,15/07/2024,Monday,18:00,21:00,"Recap - 10 min | AWS Certified Cloud Practitioner
+( CCP ) Exam Preparation - 120 min | Exit Ticket - 10 min | Flex Time - 40 min"
+Ending and exam preparation,16/07/2024,Tuesday,18:00,21:00,"Recap - 10 min | Review AWS re / Start Post - Graduate
+Resources - 45 min | Company Visit - 90 min | Interview practice - 20 min | Exit Ticket - 10 min | Flex Time - 5 min"
+Ending and exam preparation,17/07/2024,Wednesday,18:00,21:00,"Recap - 10 min | Company Visit - 60 min | Cloud Practitioner Essentials
+Knowledge Checks - 75 min | Exit Ticket - 10 min | Flex Time - 25 min"
+Ending and exam preparation,18/07/2024,Thursday,18:00,21:00,"Recap - 10 min | Cloud Practitioner Essentials .
+Knowledge Checks - 80 min | Exit Ticket - 10 min | Flex Time - 80 min"
+Ending and exam preparation,20/07/2024,Saturday,10:30,13:30,Recap - 10 min | Networking Event - 90 min | Exit Ticket - 10 min | Flex Time - 70 min
+Ending and exam preparation,22/07/2024,Monday,18:00,21:00,Recap - 10 min | Networking Event - 90 min | Exit Ticket - 10 min | Flex Time - 70 min
+Ending and exam preparation,23/07/2024,Tuesday,18:00,21:00,"Recap - 10 min | Review product FAQ / review AWS /
+AWS whitepapers / exam blueprint - 80 min | Exit Ticket - 10 min | Flex Time - 80 min"
+Ending and exam preparation,24/07/2024,Wednesday,18:00,21:00,"Recap - 10 min | Review product FAQ / review AWS /
+AWS whitepapers / exam blueprint - 85 min | Exit Ticket - 10 min | Flex Time - 75 min"
+Ending and exam preparation,25/07/2024,Thursday,18:00,21:00,Recap - 10 min | Mock exam and review - 80 min | Exit Ticket - 10 min | Flex Time - 80 min
+Ending and exam preparation,27/07/2024,Saturday,10:30,13:30,Recap - 10 min | Mock exam and review - 90 min | Exit Ticket - 10 min | Flex Time - 70 min
+Ending and exam preparation,29/07/2024,Monday,18:00,21:00,"Recap - 10 min | Review product FAQ / review AWS /
+AWS whitepapers / exam blueprint - 80 min | Exit Ticket - 10 min | Flex Time - 80 min"
+Ending and exam preparation,30/07/2024,Tuesday,18:00,21:00,"Recap - 10 min | Review product FAQ / review AWS /
+AWS whitepapers / exam blueprint - 85 min | Exit Ticket - 10 min | Flex Time - 75 min"
+Ending and exam preparation,31/07/2024,Wednesday,18:00,21:00,Recap - 10 min | Mock exam and review - 80 min | Exit Ticket - 10 min | Flex Time - 80 min
+Ending and exam preparation,01/08/2024,Thursday,18:00,21:00,Recap - 10 min | Mock exam and review - 85 min | Exit Ticket - 10 min | Flex Time - 75 min
+Soft skills,03/08/2024,Saturday,10:30,13:30,Recap - 10 min | Professional Outlook - 135 min | Exit Ticket - 10 min | Flex Time - 25 min
+Soft skills,05/08/2024,Monday,18:00,21:00,Recap - 10 min | Digital Presence - 95 min | Interview settings ( lecture ) - 35 min | Exit Ticket - 10 min | Flex Time - 30 min
+Soft skills,06/08/2024,Tuesday,18:00,21:00,Recap - 10 min | Interview process ( lecture ) - 50 min | Interview Practice - 45 min | Interview Practice - 45 min | Exit Ticket - 10 min | Flex Time - 20 min
+Soft skills,07/08/2024,Wednesday,18:00,21:00,Recap - 10 min | Hiring Process - 60 min | Exploring Cloud Job Postings - 90 min | Exit Ticket - 10 min | Flex Time - 10 min
+Soft skills,08/08/2024,Thursday,18:00,21:00,"Recap - 10 min | Explore Cloud Job Postings
+discussion - 45 min | Work on Resume - 45 min | Exit Ticket - 10 min | Flex Time - 70 min"
+Soft skills,10/08/2024,Saturday,10:30,13:30,Recap - 10 min | Networking (soft skills) - 95 min | Exit Ticket - 10 min | Flex Time - 65 min
+Soft skills,12/08/2024,Monday,18:00,21:00,Recap - 10 min | Networking (soft skills) Continued - 100 min | Interview Practice - 45 min | Exit Ticket - 10 min | Flex Time - 15 min
+Soft skills,13/08/2024,Tuesday,18:00,21:00,Recap - 10 min | Networking Event - 160 min | Exit Ticket - 10 min
+Soft skills,14/08/2024,Wednesday,18:00,21:00,Recap - 10 min | Technical thought process - 160 min | Exit Ticket - 10 min
+Soft skills,17/08/2024,Saturday,10:30,13:30,Recap - 10 min | Work on Resume - 45 min | Teamwork and Collaboration - 45 min | Exit Ticket - 10 min | Flex Time - 70 min
+Soft skills,19/08/2024,Monday,18:00,21:00,Recap - 10 min | Teamwork and Collaboration (Continued) - 140 min | Exit Ticket - 10 min | Flex Time - 20 min
+Soft skills,20/08/2024,Tuesday,18:00,21:00,Recap - 10 min | Teamwork and Collaboration (Continued) - 60 min | Work on Resume - 35 min | Interview Practice - 30 min | Exit Ticket - 10 min | Flex Time - 35 min
+Soft skills,21/08/2024,Wednesday,18:00,21:00,Recap - 10 min | Networking Event - 80 min | Work on Resume - 35 min | Interview Practice - 30 min | Exit Ticket - 10 min | Flex Time - 15 min
+Soft skills,22/08/2024,Thursday,18:00,21:00,Recap - 10 min | Work on Resume - 45 min | Interview Practice - 70 min | Exit Ticket - 10 min | Flex Time - 45 min
+Soft skills,24/08/2024,Saturday,10:30,13:30,Recap - 10 min | Elevator Pitch - 65 min | AWS re / Start Interview Preparation - 45 min | Work on Resume / Interview Practice - 50 min | Exit Ticket - 10 min
